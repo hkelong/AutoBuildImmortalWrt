@@ -65,6 +65,13 @@ PACKAGES="$PACKAGES luci-i18n-partexp-zh-cn”
 PACKAGES="$PACKAGES luci-i18n-ssr-plus-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-wolplus-zh-cn"
 PACKAGES="$PACKAGES luci-app-taskplan"
+PACKAGES="$PACKAGES luci-app-autoreboot"
+PACKAGES="$PACKAGES luci-i18n-arpbind-zh-cn"
+PACKAGES="$PACKAGES luci-app-unblockmusic"
+PACKAGES="$PACKAGES luci-i18n-wolplus-zh-cn"
+PACKAGES="$PACKAGES luci-app-airplay2"
+PACKAGES="$PACKAGES luci-app-ntpc"
+PACKAGES="$PACKAGES 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # 静态文件服务器dufs(推荐)
