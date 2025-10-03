@@ -57,8 +57,6 @@ PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
 PACKAGES="$PACKAGES luci-app-autoreboot"
 PACKAGES="$PACKAGES luci-i18n-arpbind-zh-cn"
 PACKAGES="$PACKAGES luci-app-taskplan"
-PACKAGES="$PACKAGES luci-app-ntpc"
-# PACKAGES="$PACKAGES luci-app-accesscontrol"
 PACKAGES="$PACKAGES luci-app-upnp"
 #24.10
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
