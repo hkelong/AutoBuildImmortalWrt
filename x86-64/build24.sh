@@ -60,7 +60,7 @@ PACKAGES="$PACKAGES luci-app-taskplan"
 # PACKAGES="$PACKAGES luci-app-ntpc"
 # PACKAGES="$PACKAGES luci-app-accesscontrol"
 PACKAGES="$PACKAGES luci-app-upnp"
-# PACKAGES="$PACKAGES luci-i18n-vnstat2"
+PACKAGES="$PACKAGES luci-i18n-vnstat2"
 #24.10
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
